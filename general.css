@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+.container{
+
+    margin: 0 auto;
+    max-width: 75rem;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  a {
+    text-decoration: none;
+    outline-color: var(--yellow);
+  }
+body{
+    font-family: 'Tajawal' !important;
+    font-size: 14px !important;
+}
+
+h1,h2,h3,h4,p{
+    letter-spacing: 0.10em !important;
+    margin: 0.2em 0 !important;
+}
+
+a{
+    color: #000 !important;
+    outline: none;
+    text-decoration: none !important;
+}
+a:hover{color:  blueviolet !important; }
